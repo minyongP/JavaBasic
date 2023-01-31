@@ -1,0 +1,2 @@
+module JavaEssential {
+}
