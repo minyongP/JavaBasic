@@ -1,3 +1,3 @@
 # JAVA
-### java, spring boot
+### spring boot / fastcampus
 ### JAVA ESSENTIAL / 생능출판
